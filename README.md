@@ -1,5 +1,5 @@
 ## Thesis
-- Implementation of the **KAISER** security mechanism against the **Meltdown** vulnerability in a didactic kernel ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
+- Implementation of the **KAISER** security mechanism against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64** ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
 
 ## MSc Computer Engineering Projects
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) Design of a **discrete event simulator** which simulates the behavior of a supermarket (modelled as a *queueing system*) and **performance evaluation** of the system under several configurations and workloads. 
