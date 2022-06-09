@@ -3,10 +3,10 @@
 
 ## MSc Computer Engineering Projects
 - ⭐ ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) Design of a **large-scale and multi-structured database** for a *social network application*. 
-Developed in **Java**, **MongoDB** and **Neo4j**. ([2022](https://github.com/RiccardoSagramoni/gameflows-social-network))
+Developed in **Java 11** with **MongoDB** and **Neo4j** databases. ([2022](https://github.com/RiccardoSagramoni/gameflows-social-network))
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&&color=darkgreen) Analysis of **malware samples** for **Android devices**, in order to identify the malicious behavior. Executed antimalware (*VirusTotal*), static (*MobSF and decompiled Java code*) and dynamic analysis (*MobSF and Genymotion*). ([2022](https://github.com/RiccardoSagramoni/malware-analysis))
 - ⭐ ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) Design of a **discrete event simulator** which simulates the behavior of a supermarket (modelled as a *queueing system*) and **performance evaluation** of the system under several configurations and workloads. 
-Developed with the **OMNeT++** framework. ([2022](https://github.com/RiccardoSagramoni/performance-evaluation-supermarket))
+Developed in C++ with the **OMNeT++** framework. ([2022](https://github.com/RiccardoSagramoni/performance-evaluation-supermarket))
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&&color=darkred) Design of a *client-server messaging application* with **strong security requirements** for the network communication protocols. 
 Developed in **C++14** for Linux systems with **OpenSSL** library for cryptography algorithms. ([2021](https://github.com/RiccardoSagramoni/Cybersecurity-Project))
 
