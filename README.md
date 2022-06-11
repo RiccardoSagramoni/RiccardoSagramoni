@@ -13,7 +13,7 @@ Developed in **C++14** for Linux systems with **OpenSSL** library for cryptograp
 ## BSc Computer Engineering Projects
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) Design and development of a *family expense manager* as a **Java client-server application**. ([2020](https://github.com/RiccardoSagramoni/Gestore-Spese))
 - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white&&color=darkred) Design of **client-server** application which implements a *lottery system*. Developed in **C** for Linux systems. ([2020](https://github.com/RiccardoSagramoni/Lotto))
-- ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) Design and development of an *online supermarket website* in **Javascript** and **PHP** ([2019](https://github.com/RiccardoSagramoni/UniMarket))
+- ![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) Design and development of an *online supermarket website* using **Javascript** and **PHP** ([2019](https://github.com/RiccardoSagramoni/UniMarket))
 
 
 
