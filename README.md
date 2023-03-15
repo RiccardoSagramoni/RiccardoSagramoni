@@ -15,7 +15,7 @@ Developed in **C++14** for Linux systems with **OpenSSL** library for cryptograp
 Developed in **MATLAB**. ([2022](https://github.com/RiccardoSagramoni/intelligent-systems-project))
 
 - <img src="https://www.prometsource.com/sites/default/files/styles/blog_detail/public/2018-09/Agile%20Development.jpg" alt="AGILE" height="30px"/> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) Development of a *pipelined application* (a **secure POS monitoring system**), based on **DataOps**, to support *productivity* metrics. <br>
-The main focus of the project was to master the **AGILE** methodology (Trello, Clockify) and the **Unified Process** during all the project phases: requirements (workflow landscape, BPMN diagrams), analysis (detailed use cases, sequence diagrams, class diagrams), design (class diagram), development (Python code) and testing. ([2022]())
+The main focus of the project was to master the **AGILE** methodology (Trello, Clockify) and the **Unified Process** during all the project phases: requirements (workflow landscape, BPMN diagrams), analysis (detailed use cases, sequence diagrams, class diagrams), design (class diagram), development (Python code) and testing. ([2022](https://github.com/RiccardoSagramoni/secure-pos-agile))
 
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&&color=darkgreen) 
 Analysis of **malware samples** for **Android devices**, in order to identify the malicious behavior. Executed antimalware (*VirusTotal*), static (*MobSF and decompiled Java code*) and dynamic analysis (*MobSF and Genymotion*). ([2022](https://github.com/RiccardoSagramoni/malware-analysis))
