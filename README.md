@@ -14,8 +14,7 @@ Developed in **C++14** for Linux systems with **OpenSSL** library for cryptograp
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> Design and implementation of several **artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals. <br>
 Developed in **MATLAB**. ([2022](https://github.com/RiccardoSagramoni/intelligent-systems-project))
 
-- <img src="https://www.prometsource.com/sites/default/files/styles/blog_detail/public/2018-09/Agile%20Development.jpg" alt="AGILE" height="30px"/> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) Development of a *pipelined application* (a **secure POS monitoring system**), based on **DataOps**, to support *productivity* metrics. <br>
-The main focus of the project was to master the **AGILE** methodology (Trello, Clockify) and the **Unified Process** during all the project phases: requirements (workflow landscape, BPMN diagrams), analysis (detailed use cases, sequence diagrams, class diagrams), design (class diagram), development (Python code) and testing. ([2022](https://github.com/RiccardoSagramoni/secure-pos-agile))
+- 
 
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&&color=darkgreen) 
 Analysis of **malware samples** for **Android devices**, in order to identify the malicious behavior. Executed antimalware (*VirusTotal*), static (*MobSF and decompiled Java code*) and dynamic analysis (*MobSF and Genymotion*). ([2022](https://github.com/RiccardoSagramoni/malware-analysis))
@@ -23,6 +22,9 @@ Analysis of **malware samples** for **Android devices**, in order to identify th
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=fffff)![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
 Design of a **MapReduce** application which builds *bloom filters* from the IMDB movie dataset and test their statistical properties. <br>
 Implemented both in **Java/Hadoop** and **Python/Spark**. ([2022](https://github.com/RiccardoSagramoni/map-reduce-bloom-filter))
+
+- <img src="https://www.prometsource.com/sites/default/files/styles/blog_detail/public/2018-09/Agile%20Development.jpg" alt="AGILE" height="20px"/> ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) Development of a *pipelined application* (a **secure POS monitoring system**), based on **DataOps**, to support *productivity* metrics. <br>
+The main focus of the project was to master the **AGILE** methodology (Trello, Clockify) and the **Unified Process** during all the project phases: requirements (workflow landscape, BPMN diagrams), analysis (detailed use cases, sequence diagrams, class diagrams), design (class diagram), development (Python code) and testing. ([2022](https://github.com/RiccardoSagramoni/secure-pos-agile))
 
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) 
 Design of a **large-scale and multi-structured database** for a *social network application*. <br>
