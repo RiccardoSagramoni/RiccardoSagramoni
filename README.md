@@ -1,8 +1,10 @@
 ## Thesis
+
 - Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64** ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
 
 
 ## MSc Computer Engineering Projects
+
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) 
 Design of a **discrete event simulator** which simulates the behavior of a supermarket (modelled as a *queueing system*) and **performance evaluation** of the system under several configurations and workloads. <br>
 Developed in C++ with the **OMNeT++** framework. ([2022](https://github.com/RiccardoSagramoni/performance-evaluation-supermarket))
@@ -14,20 +16,22 @@ Developed in **C++14** for Linux systems with **OpenSSL** library for cryptograp
 - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" alt="MATLAB" height="20px"/> Design and implementation of several **artificial intelligences** (MLP, RBFN, FIS, CNN, RNN) on a dataset composed of biophysical signals. <br>
 Developed in **MATLAB**. ([2022](https://github.com/RiccardoSagramoni/intelligent-systems-project))
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=flat-square)![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) Design and development of a **Jakarta EE web application** for university students, which allows uses to book meetings with their professors and chat with other students. <br>
-The _web part_ was implemented in **Java 11** with **Jakarta EE 9.1** framework and deployed on a **Glassfish server**. The _chatroom_ feature was developed in **Erlang** and deployed on a distributed cluster with a **NGINX reverse proxy / load balancer**. ([2023](https://github.com/RiccardoSagramoni/distributed-student-platform))
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=flat-square)![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
+Design and development of a **Jakarta EE web application** for university students, which allows uses to book meetings with their professors and chat with other students. <br>
+The *web part* was implemented in **Java 11** with **Jakarta EE 9.1** framework and deployed on a **Glassfish server**. The *chatroom* feature was developed in **Erlang** and deployed on a distributed cluster with a **NGINX reverse proxy / load balancer**. ([2023](https://github.com/RiccardoSagramoni/distributed-student-platform))
 
-- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&&color=darkgreen) 
+- ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white&&color=darkgreen)
 Analysis of **malware samples** for **Android devices**, in order to identify the malicious behavior. Executed antimalware (*VirusTotal*), static (*MobSF and decompiled Java code*) and dynamic analysis (*MobSF and Genymotion*). ([2022](https://github.com/RiccardoSagramoni/malware-analysis))
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black)![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black)
 Design of a **MapReduce** application which builds *bloom filters* from the IMDB movie dataset and test their statistical properties. <br>
 Implemented both in **Java/Hadoop** and **Python/Spark**. ([2022](https://github.com/RiccardoSagramoni/map-reduce-bloom-filter))
 
-- <img src="https://www.prometsource.com/sites/default/files/styles/blog_detail/public/2018-09/Agile%20Development.jpg" alt="AGILE" height="20px"/>![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) Development of a *pipelined application* (a **secure POS monitoring system**), based on **DataOps**, to support *productivity* metrics. <br>
+- ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white)
+Development of a *pipelined application* (a **secure POS monitoring system**), based on **DataOps**, to support *productivity* metrics. <br>
 The main focus of the project was to master the **AGILE** methodology (Trello, Clockify) and the **Unified Process** during all the project phases: requirements (workflow landscape, BPMN diagrams), analysis (detailed use cases, sequence diagrams, class diagrams), design (class diagram), development (Python code) and testing. ([2023](https://github.com/RiccardoSagramoni/secure-pos-agile))
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white) 
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 Design of a **large-scale and multi-structured database** for a *social network application*. <br>
 Developed in **Java 11** with **MongoDB** and **Neo4j** databases. ([2022](https://github.com/RiccardoSagramoni/gameflows-social-network))
 
