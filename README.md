@@ -5,11 +5,11 @@
 
 ## MSc Computer Engineering Projects
 
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) <br>
+- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![OMNeT++](https://img.shields.io/badge/OMNeT++-002244.svg?style=for-the-badge)<br>
 Design of a **discrete event simulator** which simulates the behavior of a supermarket (modelled as a *queueing system*) and **performance evaluation** of the system under several configurations and workloads. <br>
 Developed in C++ with the **OMNeT++** framework. ([2022](https://github.com/RiccardoSagramoni/performance-evaluation-supermarket))
 
-- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&&color=darkred) <br>
+- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&&color=darkred)![OpenSSL](https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge)<br>
 Design of a *client-server messaging application* with **strong security requirements** for the network communication protocols. <br>
 Developed in **C++14** for Linux systems with **OpenSSL** library for cryptography algorithms. ([2021](https://github.com/RiccardoSagramoni/messaging-cybersecurity-project))
 
@@ -43,8 +43,8 @@ Developed in **VHDL**, simulated with *Modelsim*, synthesized with *Vivado*. ([2
 
 ## BSc Computer Engineering Projects
 
-- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) <br>
-Design and development of a *family expense manager* as a **Java client-server application**. ([2020](https://github.com/RiccardoSagramoni/Gestore-Spese))
+- ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![JavaFX](https://img.shields.io/badge/JavaFX-grey.svg?style=for-the-badge) <br>
+Design and development of a *family expense manager* as a **Java client-server application**, with JavaFX as GUI framework. ([2020](https://github.com/RiccardoSagramoni/Gestore-Spese))
 
 - ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&&color=darkred) <br>
 Design of **client-server** application which implements a *lottery system*. Developed in **C** for Linux systems. ([2020](https://github.com/RiccardoSagramoni/Lotto))
