@@ -12,12 +12,15 @@
 
 ### Languages
 
-[![Languages](https://skillicons.dev/icons?i=rust,c,cpp,java,kotlin,python)](https://skillicons.dev)<img height="50" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png" alt="Erlang" title="Erlang" style="background-color:white; margin: 0px 10px;border-radius:25%;"/>
+![Languages](https://skillicons.dev/icons?i=rust,c,cpp,java,kotlin,python)
+<span style="margin: 0px 10px"><img height="48" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png" alt="Erlang" title="Erlang"/></span>
 
 
 ### Technologies & Frameworks
 
-![Technologies](https://skillicons.dev/icons?i=linux,git,matlab,latex,md&theme=light)
+![Technologies](https://skillicons.dev/icons?i=linux,git&theme=light)
+  <span style="margin: 0px 10px"><img height="48" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Erlang" title="Erlang"/></span>
+  ![Technologies](https://skillicons.dev/icons?i=matlab,latex,md&theme=light)
 
 ![Technologies](https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,nginx,flask)
 
