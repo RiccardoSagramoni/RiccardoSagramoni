@@ -1,7 +1,46 @@
+<center>
+
+**Hi, welcome to my GitHub profile!**
+
+*I'm Riccardo.*
+
+*I'm currently a MSc Computer Engineering student at University of Pisa.*
+
+</center>
+
+<center>
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=rust,c,cpp,java,kotlin,python)](https://skillicons.dev)<img height="50" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png" alt="Erlang" title="Erlang" style="background-color:white; margin: 0px 10px;border-radius:25%;"/>
+
+
+### Technologies & Frameworks
+
+![Technologies](https://skillicons.dev/icons?i=linux,git,matlab,latex,md&theme=light)
+
+![Technologies](https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,nginx,flask)
+
+![Technologies](https://skillicons.dev/icons?i=mysql,mongodb)
+
+</center>
+
+<br>
+
+### Index
+
+- [Thesis](#thesis)
+- [MSc Computer Engineering Projects](#msc-computer-engineering-projects)
+- [BSc Computer Engineering Projects](#bsc-computer-engineering-projects)
+
+<br>
+
+
 ## Thesis
 
 - Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64** ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
 
+<br>
 
 ## MSc Computer Engineering Projects
 
@@ -36,10 +75,12 @@ The main focus of the project was to master the **AGILE** methodology (Trello, C
 Design of a **large-scale and multi-structured database** for a *social network application*. <br>
 Developed in **Java 11** with **MongoDB** and **Neo4j** databases. ([2022](https://github.com/RiccardoSagramoni/gameflows-social-network))
 
-- <img src="https://file.allpcb.com/bbs/p/jps-pcb/upfile/2016/12/20161227161715_653.jpg" alt="VHDL" height="25px"/> <br>
+- ![VHDL](https://img.shields.io/badge/VHDL-E10600.svg?style=for-the-badge) <br>
 Design, simulation and synthesis of an **FPGA integrated circuit** which generates *convolutional codes* from an input bit sequence. <br>
 Developed in **VHDL**, simulated with *Modelsim*, synthesized with *Vivado*. ([2022](https://github.com/RiccardoSagramoni/convolutional-code-generator))
 
+
+<br>
 
 ## BSc Computer Engineering Projects
 
