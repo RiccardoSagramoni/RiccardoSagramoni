@@ -1,4 +1,4 @@
-<center>
+<div align="center">
 
 **Hi, welcome to my GitHub profile!**
 
@@ -6,9 +6,9 @@
 
 *I'm currently a MSc Computer Engineering student at University of Pisa.*
 
-</center>
+</div>
 
-<center>
+<div align="center">
 
 ### Languages
 
@@ -23,7 +23,7 @@
 
 ![Technologies](https://skillicons.dev/icons?i=mysql,mongodb)
 
-</center>
+</div>
 
 <br>
 
