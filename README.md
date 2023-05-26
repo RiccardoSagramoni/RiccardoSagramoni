@@ -102,14 +102,10 @@ Design and development of an *online supermarket website* using **Javascript** a
 
 ## Personal Projects
 
-- ![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=for-the-badge)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-<br>
-*Chatroom* project. The backend is written in **Erlang** with the **Cowboy framework** and it's deployed on multiple nodes with a **Nginx** *reverse proxy / load balancer*. The frontend is written in **TypeScript**.
-<br>
-[![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/erlang-distributed-chatroom)
+- ![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=for-the-badge)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br>
+*Chatroom* project. The backend is written in **Erlang** with the **Cowboy framework** and it's deployed on multiple nodes with a **Nginx** *reverse proxy / load balancer*. The frontend is written in **TypeScript**. <br>
+[ ![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white) ](https://github.com/RiccardoSagramoni/erlang-distributed-chatroom)
 
-- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-<br>
-Implementation in **Rust** of a simplified version of the **grep** command utility. Taken from [The Rust Language Book](https://doc.rust-lang.org/book/ch12-00-an-io-project.html).
-<br>
+- ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
+Implementation in **Rust** of a simplified version of the **grep** command utility. Taken from [The Rust Language Book](https://doc.rust-lang.org/book/ch12-00-an-io-project.html). <br>
 [![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/minigrep)
