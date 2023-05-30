@@ -12,7 +12,8 @@
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=rust,c,cpp,java,kotlin,python)
+![Languages](https://skillicons.dev/icons?i=rust,cpp,java)
+![Languages](https://skillicons.dev/icons?i=kotlin,c,python)
 <span style="margin: 0px 10px"><img height="48" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png" alt="Erlang" title="Erlang"/></span>
 
 
@@ -42,7 +43,8 @@
 
 ## Thesis
 
-- Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64** ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
+- ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Assembly](https://img.shields.io/badge/Assembly_x64-_.svg?style=for-the-badge&color=grey)<br>
+Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64** ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
 
 <br>
 
@@ -63,6 +65,10 @@ Developed in **MATLAB**. ([2022](https://github.com/RiccardoSagramoni/intelligen
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=for-the-badge)![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br>
 Design and development of a **Jakarta EE web application** for university students, which allows uses to book meetings with their professors and chat with other students. <br>
 The *web part* was implemented in **Java 11** with **Jakarta EE 9.1** framework and deployed on a **Glassfish server**. The *chatroom* feature was developed in **Erlang** and deployed on a distributed cluster with a **NGINX reverse proxy / load balancer**. ([2023](https://github.com/RiccardoSagramoni/distributed-student-platform))
+
+- ![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&&color=darkgreen)<br>
+**Indoor navigation assistant app** for visually impaired users, using *BLE beacons* and *QR codes* as localization technologies.<br>
+Developed in **Kotlin** for *Android* smartphones. ([2023]())
 
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&&color=darkgreen) <br>
 Analysis of **malware samples** for **Android devices**, in order to identify the malicious behavior. Executed antimalware (*VirusTotal*), static (*MobSF and decompiled Java code*) and dynamic analysis (*MobSF and Genymotion*). ([2022](https://github.com/RiccardoSagramoni/malware-analysis))
