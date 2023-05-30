@@ -113,5 +113,5 @@ Design and development of an *online supermarket website* using **Javascript** a
 [ ![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white) ](https://github.com/RiccardoSagramoni/erlang-distributed-chatroom)
 
 - ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
-Implementation in **Rust** of a simplified version of the **grep** command utility. Taken from The Rust Language Book. <br>
+Implementation in **Rust** of a simplified version of the **grep** command utility. Exercise taken from The Rust Language Book. <br>
 [![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/minigrep)
