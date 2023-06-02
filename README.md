@@ -68,7 +68,7 @@ The *web part* was implemented in **Java 11** with **Jakarta EE 9.1** framework 
 
 - ![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&&color=darkgreen)<br>
 **Indoor navigation assistant app** for visually impaired users, using *BLE beacons* and *QR codes* as localization technologies.<br>
-Developed in **Kotlin** for *Android* smartphones. ([2023]())
+Developed in **Kotlin** for *Android* smartphones. ([2023](https://github.com/RiccardoSagramoni/android-navigation-assistant))
 
 - ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&&color=darkgreen) <br>
 Analysis of **malware samples** for **Android devices**, in order to identify the malicious behavior. Executed antimalware (*VirusTotal*), static (*MobSF and decompiled Java code*) and dynamic analysis (*MobSF and Genymotion*). ([2022](https://github.com/RiccardoSagramoni/malware-analysis))
