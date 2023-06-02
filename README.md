@@ -66,7 +66,7 @@ Developed in **MATLAB**. ([2022](https://github.com/RiccardoSagramoni/intelligen
 Design and development of a **Jakarta EE web application** for university students, which allows uses to book meetings with their professors and chat with other students. <br>
 The *web part* was implemented in **Java 11** with **Jakarta EE 9.1** framework and deployed on a **Glassfish server**. The *chatroom* feature was developed in **Erlang** and deployed on a distributed cluster with a **NGINX reverse proxy / load balancer**. ([2023](https://github.com/RiccardoSagramoni/distributed-student-platform))
 
-- ![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&&color=darkgreen)<br>
+- ![Kotlin](https://img.shields.io/badge/kotlin-B125EA.svg?style=for-the-badge&logo=kotlin&logoColor=white)![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&&color=darkgreen)![Bluetooth](https://img.shields.io/badge/Bluetooth-navy?style=for-the-badge&logo=bluetooth&logoColor=white)<br>
 **Indoor navigation assistant app** for visually impaired users, using *BLE beacons* and *QR codes* as localization technologies.<br>
 Developed in **Kotlin** for *Android* smartphones. ([2023](https://github.com/RiccardoSagramoni/android-navigation-assistant))
 
