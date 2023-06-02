@@ -110,7 +110,12 @@ Design and development of an *online supermarket website* using **Javascript** a
 
 - ![Erlang](https://img.shields.io/badge/-Erlang-A90533?logo=erlang&logoColor=white&style=for-the-badge)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![NGINX](https://img.shields.io/badge/NGINX-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) <br>
 *Chatroom* project. The backend is written in **Erlang** with the **Cowboy framework** and it's deployed on multiple nodes with a **Nginx** *reverse proxy / load balancer*. The frontend is written in **TypeScript**. <br>
-[ ![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white) ](https://github.com/RiccardoSagramoni/erlang-distributed-chatroom)
+[![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/erlang-distributed-chatroom)
+
+- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>
+**VS Code extension** which provides a command to format the currently opened document and then automatically apply implicit indentation on all the empty lines. <br>
+[![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/vscode-format-document-with-implicit-indent)
 
 - ![Rust](https://img.shields.io/badge/rust-e43717.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
 Implementation in **Rust** of a simplified version of the **grep** command utility. Exercise taken from The Rust Language Book. <br>
