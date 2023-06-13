@@ -31,12 +31,13 @@
 
 <br>
 
-### Index
+### Table of contents
 
 - [Thesis](#thesis)
 - [MSc Computer Engineering Projects](#msc-computer-engineering-projects)
 - [BSc Computer Engineering Projects](#bsc-computer-engineering-projects)
 - [Personal Projects](#personal-projects)
+- [Exercises](#exercises)
 
 <br>
 
@@ -116,6 +117,10 @@ Design and development of an *online supermarket website* using **Javascript** a
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)<br>
 **VS Code extension** which provides a command to format the currently opened document and then automatically apply implicit indentation on all the empty lines. <br>
 [![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/vscode-format-document-with-implicit-indent)
+
+<br>
+
+## Exercises
 
 - ![Rust](https://img.shields.io/badge/rust-e43717.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
 Implementation in **Rust** of a simplified version of the **grep** command utility. Exercise taken from The Rust Language Book. <br>
