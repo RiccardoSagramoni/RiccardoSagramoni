@@ -12,20 +12,22 @@
 
 ### Languages
 
-![Languages](https://skillicons.dev/icons?i=rust,cpp,java)
-![Languages](https://skillicons.dev/icons?i=kotlin,c,python)
+![Languages](https://skillicons.dev/icons?i=rust,java,cpp)
+![Languages](https://skillicons.dev/icons?i=c,python)
 <span style="margin: 0px 10px"><img height="48" src="https://user-images.githubusercontent.com/25181517/192158301-566962f5-62fd-461b-a4f0-ce1f1030bd98.png" alt="Erlang" title="Erlang"/></span>
+![Languages](https://skillicons.dev/icons?i=kotlin)
 
 
 ### Technologies & Frameworks
 
-![Technologies](https://skillicons.dev/icons?i=linux,git&theme=light)
-  <span style="margin: 0px 10px"><img height="48" src="https://user-images.githubusercontent.com/25181517/117269608-b7dcfb80-ae58-11eb-8e66-6cc8753553f0.png" alt="Erlang" title="Erlang"/></span>
-  ![Technologies](https://skillicons.dev/icons?i=matlab,latex,md&theme=light)
+![Technologies](https://skillicons.dev/icons?i=linux,git,github,latex,md&theme=light)
+
+<span style="margin: 0px 10px"><img height="48" src="./android.jpg" alt="Android" title="Android"/></span>
+![Technologies](https://skillicons.dev/icons?i=matlab,mysql,mongodb&theme=light)
 
 ![Technologies](https://skillicons.dev/icons?i=docker,kubernetes,rabbitmq,nginx,flask)
 
-![Technologies](https://skillicons.dev/icons?i=mysql,mongodb)
+
 
 </div>
 
