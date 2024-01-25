@@ -43,11 +43,13 @@
 
 <br>
 
-
 ## Thesis
 
+- ![Rust](https://img.shields.io/badge/rust-e43717.svg?style=for-the-badge&logo=rust&logoColor=white)<br>
+Rewriting a fast C-based network I/O library to evaluate performance and memory safety of the **Rust** programming language. ([2024](), MSc Computer Engineering @ University of Pisa)
+
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Assembly](https://img.shields.io/badge/Assembly_x64-_.svg?style=for-the-badge&color=grey)<br>
-Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64** ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
+Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64**. ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
 
 <br>
 
@@ -92,7 +94,6 @@ Developed in **Java 11** with **MongoDB** and **Neo4j** databases. ([2022](https
 Design, simulation and synthesis of an **FPGA integrated circuit** which generates *convolutional codes* from an input bit sequence. <br>
 Developed in **VHDL**, simulated with *Modelsim*, synthesized with *Vivado*. ([2022](https://github.com/RiccardoSagramoni/convolutional-code-generator))
 
-
 <br>
 
 ## BSc Computer Engineering Projects
@@ -105,7 +106,6 @@ Design of **client-server** application which implements a *lottery system*. Dev
 
 - ![HTML5](https://img.shields.io/badge/html5-whitesmoke.svg?style=for-the-badge&logo=html5&logoColor=%23E34F26)![CSS3](https://img.shields.io/badge/css3-whitesmoke.svg?style=for-the-badge&logo=css3&logoColor=%231572B6)![JavaScript](https://img.shields.io/badge/Javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <br>
 Design and development of an *online supermarket website* using **Javascript** and **PHP** ([2019](https://github.com/RiccardoSagramoni/UniMarket))
-
 
 <br>
 
@@ -125,5 +125,9 @@ Design and development of an *online supermarket website* using **Javascript** a
 ## Exercises
 
 - ![Rust](https://img.shields.io/badge/rust-e43717.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
-Implementation in **Rust** of a simplified version of the **grep** command utility. Exercise taken from The Rust Language Book. <br>
+Implementation in **Rust** of a multi-threaded web server. Exercise taken from The Rust Programming Language Book. <br>
+[![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/rust-web-server)
+
+- ![Rust](https://img.shields.io/badge/rust-e43717.svg?style=for-the-badge&logo=rust&logoColor=white) <br>
+Implementation in **Rust** of a simplified version of the **grep** command utility. Exercise taken from The Rust Programming Language Book. <br>
 [![GitHub](https://img.shields.io/badge/Repository-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/RiccardoSagramoni/minigrep)
