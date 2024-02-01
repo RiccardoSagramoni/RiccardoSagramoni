@@ -46,7 +46,7 @@
 ## Thesis
 
 - ![Rust](https://img.shields.io/badge/rust-e43717.svg?style=for-the-badge&logo=rust&logoColor=white)<br>
-Rewriting a fast C-based network I/O library to evaluate performance and memory safety of the **Rust** programming language. ([2024](), MSc Computer Engineering @ University of Pisa)
+Rewriting a fast C-based network I/O library to evaluate performance and memory safety of the **Rust** programming language. ([2024](https://github.com/RiccardoSagramoni/rust-nethuns), MSc Computer Engineering @ University of Pisa)
 
 - ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Assembly](https://img.shields.io/badge/Assembly_x64-_.svg?style=for-the-badge&color=grey)<br>
 Implementation of the **KAISER** mitigation against the **Meltdown** vulnerability in a didactic kernel. Developed in **C++** and **Assembly x64**. ([2021](https://github.com/RiccardoSagramoni/Tesi-Triennale), BSc Computer Engineering @ University of Pisa)
