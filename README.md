@@ -4,7 +4,7 @@
 
 *I'm Riccardo.*
 
-*I'm currently a MSc Computer Engineering student at University of Pisa.*
+*I'm currently a Software Engineer at ION Group.*
 
 </div>
 
